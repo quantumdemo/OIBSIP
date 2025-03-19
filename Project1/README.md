@@ -47,7 +47,11 @@ The dataset contains sales records with the following columns:
 - Customer segmentation based on purchase patterns
 - Store-wise performance analysis
 
-## Contributing
+## Links
+<a href= "https://www.kaggle.com/datasets/mohammadtalib786/retail-sales-dataset" >Dataset</a>
+<a href= "https://github.com/quantumdemo/OIBSIP/blob/main/Project1/%20Exploratory%20Data%20Analysis%20(EDA)%20on%20Retail%20Sales%20Data.ipynb">Notebook Link<a/>
+
+## Contribution
 Feel free to contribute by submitting pull requests or reporting issues.
 
 ## License
@@ -55,4 +59,3 @@ This project is licensed under the MIT License.
 
 ## Contact
 For questions, please reach out to me via <a href= "mailto:afeezolalekanalimi@gmail.com">mail</a> or open an issue on GitHub.
-
