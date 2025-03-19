@@ -21,7 +21,7 @@ pip install pandas numpy matplotlib seaborn
 ## Usage
 1. Clone this repository:
    ```bash
-   git clone https://github.com/quantumdemo/Project1/Exploratory Data Analysis (EDA) on Retail Sales Data.ipynb.git
+   git clone https://github.com/quantumdemo/Project1-level1/Exploratory Data Analysis (EDA) on Retail Sales Data.ipynb.git
    ```
 2. Navigate to the project directory:
    ```bash
@@ -50,7 +50,7 @@ The dataset contains sales records with the following columns:
 ## Links
 ✔ <a href= "https://www.kaggle.com/datasets/mohammadtalib786/retail-sales-dataset" >Dataset</a>
 
-✔ <a href= "https://github.com/quantumdemo/OIBSIP/blob/main/Project1/%20Exploratory%20Data%20Analysis%20(EDA)%20on%20Retail%20Sales%20Data.ipynb">Notebook Link<a/>
+✔ <a href= "https://github.com/quantumdemo/OIBSIP/blob/main/Project1-level1/%20Exploratory%20Data%20Analysis%20(EDA)%20on%20Retail%20Sales%20Data.ipynb">Notebook Link<a/>
 
 ## Contribution
 Feel free to contribute by submitting pull requests or reporting issues.
