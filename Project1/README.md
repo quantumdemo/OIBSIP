@@ -25,7 +25,7 @@ pip install pandas numpy matplotlib seaborn
    ```
 2. Navigate to the project directory:
    ```bash
-   cd retail-sales-eda
+   cd Project1/Exploratory Data Analysis (EDA) on Retail Sales Data.ipynb
    ```
 3. Open the Jupyter Notebook:
    ```bash
@@ -54,5 +54,5 @@ Feel free to contribute by submitting pull requests or reporting issues.
 This project is licensed under the MIT License.
 
 ## Contact
-For questions, please reach out to [your email] or open an issue on GitHub.
+For questions, please reach out to me via <a href= "mailto:afeezolalekanalimi@gmail.com">mail</a> or open an issue on GitHub.
 
