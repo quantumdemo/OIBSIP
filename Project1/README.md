@@ -21,7 +21,7 @@ pip install pandas numpy matplotlib seaborn
 ## Usage
 1. Clone this repository:
    ```bash
-   git clone https://github.com/quantumdemo/retail-sales-eda.git
+   git clone https://github.com/quantumdemo/Project1/Exploratory Data Analysis (EDA) on Retail Sales Data.ipynb.git
    ```
 2. Navigate to the project directory:
    ```bash
