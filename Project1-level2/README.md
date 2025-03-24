@@ -216,5 +216,3 @@ This project successfully explored the factors affecting house prices and built 
 
 ## Author
 **Alimi Afeez Olalekan**
-
-
