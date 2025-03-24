@@ -121,3 +121,6 @@ Contributions are welcome! Please follow these steps:
 3. Commit your changes (`git commit -m 'Add new feature'`)
 4. Push to the branch (`git push origin feature-branch`)
 5. Open a Pull Request
+
+## Author
+**Alimi Afeez Olalekan**
