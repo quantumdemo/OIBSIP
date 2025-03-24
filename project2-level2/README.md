@@ -1,4 +1,4 @@
-# GitHub Documentation for Wine Quality Test Project
+# Wine Quality Test Project
 
 ## Project Overview
 This project analyzes the relationship between various chemical properties of wine and their impact on perceived quality. Using a dataset of 1,143 wines, the project explores how different attributes like acidity, sugar content, alcohol percentage, and sulfur dioxide levels affect wine quality ratings.
